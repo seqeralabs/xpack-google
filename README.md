@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Google extension package is a plugin provided by [Seqera Labs](https://www.seqera.io/) that allows the support for [Google Filestore](https://cloud.google.com/filestore) file system when deploying Nextflow pipelines with [Google LifeSciences](https://cloud.google.com/life-sciences) and [Google Cloud Batch](https://cloud.google.com/batch) computing services.
+The Nextflow extension package for Google Cloud is a plugin provided by [Seqera Labs](https://www.seqera.io/) that allows the support for [Google Filestore](https://cloud.google.com/filestore) file system when deploying Nextflow pipelines with [Google LifeSciences](https://cloud.google.com/life-sciences) and [Google Cloud Batch](https://cloud.google.com/batch) computing services.
 
 The plugin requires a license key to be used. If you are interested, please contact us for an evaluation license at [sales@seqera.io](mailto:sales@seqera.io).
 
