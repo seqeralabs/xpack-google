@@ -1,4 +1,4 @@
-# Google extension package for Nextflow (XPACK-GOOGLE)
+# Nextflow extension package for Google Cloud (XPACK-GOOGLE)
 
 ## Introduction
 
