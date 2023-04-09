@@ -64,7 +64,7 @@ Create the `nextflow.config` file in the pipeline launching directory with the
 following settings:
 
     plugins {
-      id 'xpack-google@1.0.0-beta.2'
+      id 'xpack-google@1.0.0-beta.3'
     }
 
     google.location = 'europe-west2'
@@ -88,7 +88,7 @@ Create the `nextflow.config` file in the pipeline launching directory with the
 following settings:
 
     plugins {
-      id 'xpack-google@1.0.0-beta.2'
+      id 'xpack-google@1.0.0-beta.3'
     }
 
     google.region = 'europe-west2'
@@ -118,6 +118,7 @@ path in the shared file system, e.g.:
 
 | Nextflow version        | Xpack version   |
 |---                      |---              |
+| 23.04.0 (or later)      | 1.0.0-beta.3    |
 | 23.01.0-edge (or later) | 1.0.0-beta.2    |
 | 21.06.0-edge (or later) | 1.0.0-beta.1    |
 
