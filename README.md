@@ -118,7 +118,8 @@ path in the shared file system, e.g.:
 
 | Nextflow version        | Xpack version   |
 |---                      |---              |
-| 23.12.o-edge (or later) | 1.1.0           |
+| 24.01.0-edge (or later) | 1.2.0           |
+| 23.12.0-edge (or later) | 1.1.0           |
 | 23.01.0-edge (or later) | 1.0.0           |
 | 21.06.0-edge (or later) | 1.0.0-beta.1    |
 
